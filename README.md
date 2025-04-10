@@ -4,7 +4,6 @@
   <img src="https://media1.giphy.com/media/l0IylR4JqKHLjaP60/giphy.gif?cid=6c09b952t3xp54ljgdrcfsw9m25eacyxqi91vpjzzcb03set&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500">
 </p>
 
-## Overview
 
 ## Overview
 
